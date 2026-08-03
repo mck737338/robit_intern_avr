@@ -104,7 +104,7 @@ int main(void)
 4. sw1 눌리면 모든 LED 끄고 RESET 송신
 
 ### 동작 영상
-[text](https://drive.google.com/file/d/1NC53sSe6ts7jvn9i1G6Tm-y5lanbICa5/view?usp=sharing)
+https://drive.google.com/file/d/1NC53sSe6ts7jvn9i1G6Tm-y5lanbICa5/view?usp=sharing
 
 ---
 
